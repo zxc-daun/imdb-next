@@ -1,11 +1,6 @@
 # Next.js Starter Project
 
 This is a starter project for React that uses Next.js.
-
-* Uses Express combined with Passport JS for authentication and route handling
-* Account management - Update details, link/unlink accounts, delete account
-* Session support with secure HTTP Only cookies and CSRF Tokens
-* SASS/SCSS wth Bootstrap 4 and Reactstrap with Bootstrap components for React
 * Comes with Ionicons icon font and shows how to bundle other CSS and font files
 
 You can see a live demo at **https://imdb.100jsprojects.com/**
@@ -17,7 +12,7 @@ Next.js is a framework that makes it easy to create 'universal' React apps - Rea
 
 With Next.js, React pages are automatically rendered on both client and server side, without the hassle of setting up dependancies like webpack or babel and with automatic routing and without the constraints of projects like Create React App.
 
-This is a starter project that provides an example of how to use Next.js with Express, SASS/SCSS, Bootstrap, Reactstrap (Boostrap 4 for React), the Ionicons icon set, examples of how to include data from remote REST APIs and incorporate an authentication system that supports both oAuth and Email using Passport (a popular authentication framework for Node.js).
+This is a starter project that provides an example of how to use Next.js, the Ionicons icon set, examples of how to include data from remote APIs.
 
 This project exists to make it easier to get started a creating production app in React. You are invited to use it as a reference or to copy it and use it as a base for your own projects. Contributions to improve this project are welcome.
 
